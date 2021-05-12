@@ -7,3 +7,7 @@
 ```sh
 py merge_jsons.py <путь/до/log1> <путь/до/log2> <путь/для/результата>
 ```
+запуск GUI:
+```sh
+py merge_jsons_gui.py
+```
